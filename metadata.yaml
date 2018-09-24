@@ -1,0 +1,24 @@
+_repo: Songs-Unsung_56608
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Morris, Lewis
+    alias: Morris, Lewis, Sir
+    birthdate: 1833
+    deathdate: 1907
+    gutenberg_agent_id: '32925'
+    url: http://www.gutenberg.org/2009/agents/32925
+    wikipedia: http://en.wikipedia.org/wiki/Lewis_Morris_(1833-1907)
+description: ''
+gutenberg_issued: '2018-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56608'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Songs Unsung
+url: http://www.gutenberg.org/ebooks/56608
